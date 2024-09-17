@@ -1,0 +1,103 @@
+{
+    "gerardo_de_nazaret": {
+        "edad": 22.408447488584475,
+        "carrera": "ingenieria",
+        "materias": [
+            "Algebra superior",
+            "Calculo diferencial",
+            "Trigonometria",
+            "Civil",
+            "Fisica general"
+        ],
+        "matricula": "$656224",
+        "genero": "Hombre",
+        "apellido_materno": "nazaret",
+        "apellido_paterno": "de",
+        "curp": "eriu4ghg89jesus389",
+        "full_name": "GerardoDeNazaret",
+        "fecha_nacimiento": "20/2/2001"
+    },
+    "t_t_t": {
+        "edad": 19.458904109589042,
+        "carrera": "medicina",
+        "materias": [
+            "Ginecologa y Obstetricia",
+            "Patologia General y Sistemica",
+            " Ortopedia y Rehabilitacion Fisica"
+        ],
+        "matricula": "$218296",
+        "genero": "Mujer",
+        "apellido_materno": "t",
+        "apellido_paterno": "t",
+        "curp": "34gh3489gh3894gh34",
+        "full_name": "ttt",
+        "fecha_nacimiento": "2/3/2004"
+    },
+    "h_h_h": {
+        "edad": 23.458904109589042,
+        "carrera": "mineria y extraccion",
+        "materias": [
+            "Mineralogia",
+            "Mecanica de rocas",
+            "Principios de termodinamica y electromagnetismo"
+        ],
+        "matricula": "$575436",
+        "genero": "Hombre",
+        "apellido_materno": "h",
+        "apellido_paterno": "h",
+        "curp": "eriugh87gh89h9g34d",
+        "full_name": "hhh",
+        "fecha_nacimiento": "2/3/2000"
+    },
+    "s_s_s": {
+        "edad": 16.87557077625571,
+        "carrera": "medicina",
+        "materias": [
+            "Neurologia",
+            "Medicina Humanstica y Psicologia Medica",
+            "Ginecologa y Obstetricia",
+            "Anatomia Humana",
+            "Medicina Interna",
+            "Patologia General y Sistemica"
+        ],
+        "matricula": "$916574",
+        "genero": "Hombre",
+        "apellido_materno": "s",
+        "apellido_paterno": "s",
+        "curp": "ugh38934h984hg349g",
+        "full_name": "sss",
+        "fecha_nacimiento": "2/8/2007"
+    },
+    "g_g_g": {
+        "edad": 23.542237442922374,
+        "carrera": "mineria y extraccion",
+        "materias": [
+            "Probabilidad y estadistica",
+            "Principios de termodinamica y electromagnetismo",
+            "Geologia estructural"
+        ],
+        "matricula": "$624839",
+        "genero": "Hombre",
+        "apellido_materno": "g",
+        "apellido_paterno": "g",
+        "curp": "eriughiurghg9g3434",
+        "full_name": "ggg",
+        "fecha_nacimiento": "2/4/2000"
+    },
+    "gerardo_gew_ewf": {
+        "edad": 23.486301369863014,
+        "carrera": "mineria y extraccion",
+        "materias": [
+            "Geologia estructural",
+            "Fundamentos para la explotacion de minas",
+            "Mecanica de rocas"
+        ],
+        "matricula": "$288588",
+        "genero": "Hombre",
+        "apellido_materno": "ewf",
+        "apellido_paterno": "gew",
+        "curp": "guh8h89g8h4g4g43dd",
+        "full_name": "Gerardogewewf",
+        "fecha_nacimiento": "12/3/2000"
+    }
+}

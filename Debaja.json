@@ -1,0 +1,100 @@
+{
+    "g_r_r": {
+        "edad": 23.6337899543379,
+        "carrera": "medicina",
+        "materias": [
+            "Ginecologa y Obstetricia",
+            "Traumatologia",
+            "Patologia General y Sistemica"
+        ],
+        "matricula": "$214471",
+        "genero": "Hombre",
+        "apellido_materno": "r",
+        "apellido_paterno": "r",
+        "curp": "erguhuirhriueh7348",
+        "full_name": "grr",
+        "fecha_nacimiento": "23/5/2000"
+    },
+    "e_e_e": {
+        "edad": 16.558675799086757,
+        "carrera": "ingenieria",
+        "materias": [
+            "Geometria descriptiva",
+            "Trigonometria",
+            "Algebra superior"
+        ],
+        "matricula": "$248282",
+        "genero": "Mujer",
+        "apellido_materno": "e",
+        "apellido_paterno": "e",
+        "curp": "eriuurih93h9834g4g",
+        "full_name": "eee",
+        "fecha_nacimiento": "20/4/2007"
+    },
+    "o_o_o": {
+        "edad": 33.644748858447485,
+        "carrera": "mineria y extraccion",
+        "materias": [
+            "Geologia estructural",
+            "Fundamentos para la explotacion de minas",
+            "Probabilidad y estadistica"
+        ],
+        "matricula": "$964424",
+        "genero": "Hombre",
+        "apellido_materno": "o",
+        "apellido_paterno": "o",
+        "curp": "ergheurgh894h8934h",
+        "full_name": "ooo",
+        "fecha_nacimiento": "3/5/1990"
+    },
+    "bruh_brhu_brhu": {
+        "edad": 23.72808219178082,
+        "carrera": "mineria y extraccion",
+        "materias": [
+            "Probabilidad y estadistica",
+            "Principios de termodinamica y electromagnetismo",
+            "Mineralogia"
+        ],
+        "matricula": "$776754",
+        "genero": "Hombre",
+        "apellido_materno": "brhu",
+        "apellido_paterno": "brhu",
+        "curp": "eriugerhuh9g3g38hg",
+        "full_name": "bruhbrhubrhu",
+        "fecha_nacimiento": "3/6/2000"
+    },
+    "er_rg_erg": {
+        "edad": 23.3865296803653,
+        "carrera": "ingenieria",
+        "materias": [
+            "Probabilidad y estadistica",
+            "Dibujo general",
+            "Fisica general",
+            "Civil",
+            "Calculo diferencial",
+            "Seminario de redaccion",
+            "Algebra superior",
+            "Geometria descriptiva",
+            "Trigonometria"
+        ],
+        "matricula": "$241997",
+        "genero": "Hombre",
+        "apellido_materno": "erg",
+        "apellido_paterno": "rg",
+        "curp": "eriurhg899gh4g3g4d",
+        "full_name": "errgerg",
+        "fecha_nacimiento": "1/2/2000"
+    },
+    "gerardo_camacho_acosta": {
+        "edad": 17.96986301369863,
+        "carrera": "ingenieria",
+        "materias": [],
+        "matricula": "$255341",
+        "genero": "Hombre",
+        "apellido_materno": "acosta",
+        "apellido_paterno": "camacho",
+        "curp": "riuu4h95h84g8hg594",
+        "full_name": "Gerardocamachoacosta",
+        "fecha_nacimiento": "25/9/2006"
+    }
+}

@@ -1,0 +1,34 @@
+{
+    "medicina": {
+        "Anatomia Humana": {},
+        "Medicina Humanstica y Psicologia Medica": {},
+        "Medicina Interna": {},
+        "Patologia General y Sistemica": {},
+        "Ginecologa y Obstetricia": {},
+        "Traumatologia": {},
+        " Ortopedia y Rehabilitacion Fisica": {},
+        "Neurologia": {},
+        "Psiquiatria": {}
+    },
+    "ingenieria": {
+        "Civil": {},
+        "Algebra superior": {},
+        "Fisica general": {},
+        "Calculo diferencial": {},
+        "Dibujo general": {},
+        "Seminario de redaccion": {},
+        "Geometria descriptiva": {},
+        "Trigonometria": {},
+        "Probabilidad y estadistica": {}
+    },
+    "mineria y extraccion": {
+        "Probabilidad y estadistica": {},
+        "Mineralogia": {},
+        "Topografia para mineros": {},
+        "Principios de termodinamica y electromagnetismo": {},
+        "Mecanica de rocas": {},
+        "Geologia estructural": {},
+        "Legislacion aplicada a la mineria": {},
+        "Fundamentos para la explotacion de minas": {}
+    }
+}

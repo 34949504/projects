@@ -1,0 +1,5 @@
+medicina**Anatomía Humana,Medicina Humanística y Psicología Médica,Medicina Interna,Patología General y Sistémica,Ginecología y Obstetricia,Traumatología, Ortopedia y Rehabilitación Física,Neurología,Psiquiatría
+ingenieria**Civil,Algebra superior,Física general,Cálculo diferencial,Dibujo general,Seminario de redacción,Geometría descriptiva,Trigonometría,Probabilidad y estadística
+mineria y extraccion**Probabilidad y estadística,Mineralogía,Topografía para mineros,Principios de termodinámica y electromagnetismo,Mecánica de rocas,Geología estructural,Legislación aplicada a la minería,Fundamentos para la explotación de minas
+
+
