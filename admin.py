@@ -398,6 +398,7 @@ class Admin():
 
 
         if chose == str(index+1):
+            cleaning()
             return Admin().update()
 
         elif chose == str(index):
